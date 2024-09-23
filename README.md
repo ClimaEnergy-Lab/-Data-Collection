@@ -22,3 +22,6 @@ This repository contains all scripts and resources used for collecting data rela
 
 [타 블로그](https://velog.io/@sukong/%EC%A0%95%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-%EC%82%AC%EC%9D%B4%ED%8A%B8)
 
+[기존 강의자료 모음](https://github.com/justinbrianhwang/AI-project)
+
+
