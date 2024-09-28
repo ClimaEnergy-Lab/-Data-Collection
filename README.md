@@ -24,4 +24,4 @@ This repository contains all scripts and resources used for collecting data rela
 
 [기존 강의자료 모음](https://github.com/justinbrianhwang/AI-project)
 
-
+[서울시 데이터](https://data.seoul.go.kr/dataList/OA-15969/S/1/datasetView.do)
