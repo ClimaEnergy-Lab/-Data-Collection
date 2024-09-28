@@ -28,3 +28,5 @@ This repository contains all scripts and resources used for collecting data rela
 #### data
 
 [서울시 데이터](https://data.seoul.go.kr/dataList/OA-15969/S/1/datasetView.do)
+
+[서울시 실시간 데이터](https://bigdata.kepco.co.kr/openapi/v1/powerUsage/industryType.do?year=2020&month=11&metroCd=11&bizCd=C&apiKey=eXhn7Xe5mnq65c38dZF1SwphdpMf78J8E92OQrNB&returnType=json)
